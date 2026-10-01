@@ -1,0 +1,5 @@
+semantic_rule_label,count,percentage
+correct,77516,72.69
+incorrect,214,0.20
+partially_correct,635,0.60
+uncertain,28281,26.52

@@ -1,0 +1,11 @@
+field_name,semantic_rule_decision,count,percentage_within_field
+distribution_url,accept,25291,100.00
+hash_values,accept,1,100.00
+license,accept,24413,97.46
+license,accept_with_caution,632,2.52
+license,manual_review,3,0.01
+repository_url,accept,27811,99.13
+repository_url,manual_review,35,0.12
+repository_url,reject,208,0.74
+supplier,manual_review,28246,99.98
+supplier,reject,6,0.02

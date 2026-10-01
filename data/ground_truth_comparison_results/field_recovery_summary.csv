@@ -1,0 +1,6 @@
+field_name,verified_gt_cases,gt_cases_with_any_proposal,proposal_coverage_pct,primary_metric_included,primary_evaluable_gt_cases,primary_evaluable_cases_with_proposal,strict_accepted_evaluated,correct_accepted,incorrect_accepted,strict_precision_pct,verified_recovery_pct
+license,301,143,47.51,yes,301,143,91,90,1,98.90,29.90
+supplier,111,65,58.56,yes,111,65,0,0,0,0.00,0.00
+repository_url,355,179,50.42,yes,355,179,178,171,7,96.07,48.17
+hash_values,150,1,0.67,exact_artifact_only,1,1,1,1,0,100.00,100.00
+distribution_url,108,49,45.37,yes,108,49,49,49,0,100.00,45.37

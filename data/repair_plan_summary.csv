@@ -1,0 +1,11 @@
+metric,value,percentage
+total_components,52767,100.00
+components_with_repairs,28389,53.80
+components_with_field_specific_abstention,22238,42.14
+total_field_repairs,106646,
+total_missing_field_decisions,237367,100.00
+manual_review_field_decisions,26051,10.97
+repair_status:repair_proposed,28389,53.80
+repair_status:not_auto_repair_candidate,23584,44.69
+repair_status:evidence_not_acceptable,791,1.50
+repair_status:no_missing_repairable_field_with_evidence,3,0.01

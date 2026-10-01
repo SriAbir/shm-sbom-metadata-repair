@@ -1,0 +1,6 @@
+field,total_components,present_before,missing_before,completeness_before_pct,accepted_repairs_applied,present_after,missing_after,completeness_after_pct,absolute_gain_percentage_points,missing_value_recovery_pct
+license,52767,5125,47642,9.71,24413,29538,23229,55.98,46.27,51.24
+supplier,52767,0,52767,0.00,0,0,52767,0.00,0.00,0.00
+repository_url,52767,0,52767,0.00,27811,27811,24956,52.71,52.71,52.71
+hash_values,52767,17103,35664,32.41,1,17104,35663,32.41,0.00,0.00
+distribution_url,52767,4240,48527,8.04,25291,29531,23236,55.96,47.93,52.12

@@ -1,0 +1,16 @@
+ecosystem,field,total_components,before_present_count,before_present_percentage,before_missing_count,after_present_count,after_present_percentage,after_missing_count,repaired_count,repair_rate_among_originally_missing,absolute_coverage_gain_percentage_points,still_missing_count
+maven,license,10008,1917,19.15,8091,2667,26.65,7341,750,9.27,7.49,7341
+maven,repository_url,10008,0,0.00,10008,1878,18.76,8130,1878,18.76,18.76,8130
+maven,supplier,10008,0,0.00,10008,1834,18.33,8174,1834,18.33,18.33,8174
+maven,distribution_url,10008,1901,18.99,8107,2567,25.65,7441,666,8.22,6.65,7441
+maven,hash_values,10008,4884,48.80,5124,5583,55.79,4425,699,13.64,6.98,4425
+npm,license,41582,3003,7.22,38579,7784,18.72,33798,4781,12.39,11.50,33798
+npm,repository_url,41582,0,0.00,41582,6098,14.66,35484,6098,14.66,14.66,35484
+npm,supplier,41582,0,0.00,41582,6114,14.70,35468,6114,14.70,14.70,35468
+npm,distribution_url,41582,1886,4.54,39696,6687,16.08,34895,4801,12.09,11.55,34895
+npm,hash_values,41582,11926,28.68,29656,11926,28.68,29656,0,0.00,0.00,29656
+pypi,license,1177,205,17.42,972,205,17.42,972,0,0.00,0.00,972
+pypi,repository_url,1177,0,0.00,1177,206,17.50,971,206,17.50,17.50,971
+pypi,supplier,1177,0,0.00,1177,206,17.50,971,206,17.50,17.50,971
+pypi,distribution_url,1177,453,38.49,724,453,38.49,724,0,0.00,0.00,724
+pypi,hash_values,1177,293,24.89,884,293,24.89,884,0,0.00,0.00,884

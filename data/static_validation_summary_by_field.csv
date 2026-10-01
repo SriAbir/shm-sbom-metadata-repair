@@ -1,0 +1,10 @@
+field_name,static_validation_result,count,percentage_within_field
+distribution_url,pass,25291,100.00
+hash_values,pass,1,100.00
+license,pass,24579,98.13
+license,out_of_scope,469,1.87
+repository_url,pass,27909,99.48
+repository_url,out_of_scope,45,0.16
+repository_url,fail,100,0.36
+supplier,out_of_scope,28246,99.98
+supplier,fail,6,0.02

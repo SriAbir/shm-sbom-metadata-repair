@@ -1,0 +1,6 @@
+field,total_components,before_present_count,before_present_percentage,before_missing_count,after_present_count,after_present_percentage,after_missing_count,repaired_count,repair_rate_among_originally_missing,absolute_coverage_gain_percentage_points,still_missing_count
+license,52767,5125,9.71,47642,10656,20.19,42111,5531,11.61,10.48,42111
+repository_url,52767,0,0.00,52767,8182,15.51,44585,8182,15.51,15.51,44585
+supplier,52767,0,0.00,52767,8154,15.45,44613,8154,15.45,15.45,44613
+distribution_url,52767,4240,8.04,48527,9707,18.40,43060,5467,11.27,10.36,43060
+hash_values,52767,17103,32.41,35664,17802,33.74,34965,699,1.96,1.32,34965

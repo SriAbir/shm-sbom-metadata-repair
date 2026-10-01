@@ -1,0 +1,16 @@
+project_id,owner_repo,local_path,commit_hash,branch,collected_at,status
+NPM-01,facebook/react,repos/npm/react,a1a6bc89742fbe8e1f9680a3051fdedc111fb378,main,2026-07-01T12:10:54.595806+00:00,success
+NPM-02,axios/axios,repos/npm/axios,7b1825ff0832981f02a7aa6f3995522b0be297ee,v1.x,2026-07-01T12:10:54.595806+00:00,success
+NPM-03,angular/angular,repos/npm/angular,c4cb66e60264a856c2349ad7ae8d6bf74608b5b7,main,2026-07-01T12:10:54.595806+00:00,success
+NPM-04,expressjs/express,repos/npm/express,18e5985b8a9d5e8423db0a9121f22bdaecd5b120,master,2026-07-01T12:10:54.595806+00:00,success
+NPM-05,vuejs/core,repos/npm/core,c0606e91798c8dca4f33d101e1dd836d672592c1,main,2026-07-01T12:10:54.595806+00:00,success
+PY-01,fastapi/fastapi,repos/pypi/fastapi,0df0261757e65fc8a8f22e2b8dff194ea349ddeb,master,2026-07-01T12:10:54.595806+00:00,success
+PY-02,django/django,repos/pypi/django,54495840a6a8b09ec40c793495e6541a3c0d3d5b,main,2026-07-01T12:10:54.595806+00:00,success
+PY-03,scikit-learn/scikit-learn,repos/pypi/scikit-learn,3c5db7378c68b3477e121138d0f657da1d1136df,main,2026-07-01T12:10:54.595806+00:00,success
+PY-04,psf/requests,repos/pypi/requests,23953c0c875219a715f081cf3de7c149a7629ccf,main,2026-07-01T12:10:54.595806+00:00,success
+PY-05,pandas-dev/pandas,repos/pypi/pandas,a3d6432b92ddb63546c6e493374f09da47b7109d,main,2026-07-01T12:10:54.595806+00:00,success
+MAV-01,spring-projects/spring-boot,repos/maven/spring-boot,fb9794a2d346036a6adfa74cc3f1253010d63ea0,main,2026-07-01T12:10:54.595806+00:00,success
+MAV-02,apache/dubbo,repos/maven/dubbo,ed0e11e1cca847b632b32a3e5f61ff8f072ada84,3.3,2026-07-01T12:10:54.595806+00:00,success
+MAV-03,apache/flink,repos/maven/flink,823d9d509f2f0b83394dfa7958ff4fea44b94e41,master,2026-07-01T12:10:54.595806+00:00,success
+MAV-04,junit-team/junit5,repos/maven/junit5,c32e9b138ceffc28d2e733ee2e2b1d73d2c1f914,main,2026-07-01T12:10:54.595806+00:00,success
+MAV-05,apache/maven,repos/maven/maven,f4eae55109b026ec09d4128f56aec15d39141d33,master,2026-07-01T12:10:54.595806+00:00,success

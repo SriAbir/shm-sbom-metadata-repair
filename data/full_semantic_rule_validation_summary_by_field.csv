@@ -1,0 +1,10 @@
+field_name,semantic_rule_label,count,percentage_within_field
+distribution_url,correct,25291,100.00
+hash_values,correct,1,100.00
+license,correct,24413,97.46
+license,partially_correct,635,2.54
+repository_url,correct,27811,99.13
+repository_url,incorrect,208,0.74
+repository_url,uncertain,35,0.12
+supplier,incorrect,6,0.02
+supplier,uncertain,28246,99.98

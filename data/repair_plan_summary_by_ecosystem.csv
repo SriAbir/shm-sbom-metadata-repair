@@ -1,0 +1,14 @@
+ecosystem,field_name,repair_count,percentage_within_ecosystem
+maven,distribution_url,209,42.14
+maven,license,92,18.55
+maven,repository_url,114,22.98
+maven,supplier,81,16.33
+npm,distribution_url,24783,23.70
+npm,license,24609,23.53
+npm,repository_url,27577,26.37
+npm,supplier,27606,26.40
+pypi,distribution_url,299,18.98
+pypi,hash_values,1,0.06
+pypi,license,347,22.03
+pypi,repository_url,363,23.05
+pypi,supplier,565,35.87

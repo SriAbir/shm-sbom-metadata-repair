@@ -1,0 +1,3 @@
+analysis,population,tp,fp,fn,tn,precision_pct,recall_pct,f1_pct,specificity_pct,accuracy_pct
+strict_accept_vs_non_accept,primary-evaluable VERIFIED GT cases with a semantic proposal,311,8,12,106,97.49,96.28,96.88,92.98,95.42
+accept_or_caution_vs_manual_or_reject,primary-evaluable VERIFIED GT cases with a semantic proposal,318,52,5,62,85.95,98.45,91.77,54.39,86.96

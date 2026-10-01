@@ -1,0 +1,5 @@
+semantic_rule_decision,count,percentage
+accept,77516,72.69
+accept_with_caution,632,0.59
+manual_review,28284,26.52
+reject,214,0.20

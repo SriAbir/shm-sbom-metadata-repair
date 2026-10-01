@@ -1,0 +1,2 @@
+field_name,semantic_rule_id,uncertain_category,review_route,review_priority,count,percentage_of_uncertain
+repository_url,SEM-REP-06,repository_equivalence_uncertain,human_semantic_review,high,1,100.00

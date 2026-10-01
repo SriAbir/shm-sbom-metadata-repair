@@ -1,0 +1,2 @@
+scope,fields,field_count,total_components,total_component_field_cells,present_before,missing_before,completeness_before_pct,accepted_repairs_applied,present_after,missing_after,completeness_after_pct,absolute_gain_percentage_points,missing_value_recovery_pct,components_improved,components_unchanged,components_decreased
+primary_5_repair_fields,license;supplier;repository_url;hash_values;distribution_url,5,52767,263835,26468,237367,10.03,77516,103984,159851,39.41,29.38,32.66,28307,24460,0

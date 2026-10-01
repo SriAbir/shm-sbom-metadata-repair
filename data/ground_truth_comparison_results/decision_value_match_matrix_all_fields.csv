@@ -1,0 +1,9 @@
+semantic_rule_decision,ground_truth_value_match,count
+accept,correct,311
+accept,incorrect,8
+accept_with_caution,correct,7
+accept_with_caution,incorrect,44
+manual_review,correct,5
+manual_review,incorrect,60
+reject,correct,0
+reject,incorrect,2

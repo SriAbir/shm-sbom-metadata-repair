@@ -1,0 +1,8 @@
+metric,value,percentage
+matched_components,52767,100.00
+average_before_metadata_completeness_score,0.4201,42.01
+average_after_metadata_completeness_score,0.4865,48.65
+average_score_gain,0.0664,6.64
+components_with_improved_score,8323,15.77
+components_with_unchanged_score,44444,84.23
+components_with_decreased_score,0,0.00

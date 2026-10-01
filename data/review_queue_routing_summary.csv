@@ -1,0 +1,15 @@
+review_route,field_name,static_validation_result,semantic_review_category,count,percentage_of_route,percentage_of_all_proposals
+llm_semantic_review,license,out_of_scope,license_classifier_normalization,24,0.29,0.09
+llm_semantic_review,license,out_of_scope,license_format_interpretation,17,0.20,0.06
+llm_semantic_review,license,out_of_scope,license_name_normalization,152,1.81,0.54
+llm_semantic_review,repository_url,out_of_scope,repository_host_semantics,59,0.70,0.21
+llm_semantic_review,supplier,out_of_scope,maven_supplier_semantics,1834,21.82,6.54
+llm_semantic_review,supplier,out_of_scope,npm_scope_supplier_semantics,1891,22.50,6.75
+llm_semantic_review,supplier,out_of_scope,pypi_supplier_semantics,206,2.45,0.73
+llm_semantic_review,supplier,out_of_scope,supplier_semantics_unverified,4223,50.24,15.06
+non_llm_manual_review,hash_values,out_of_scope,unsupported_hash_algorithm,67,88.16,0.24
+non_llm_manual_review,repository_url,fail,repository_static_failure,9,11.84,0.03
+static_pass_control_pool,distribution_url,pass,static_pass_control,5467,27.96,19.50
+static_pass_control_pool,hash_values,pass,hash_evidence_review,632,3.23,2.25
+static_pass_control_pool,license,pass,license_format_interpretation,5338,27.30,19.04
+static_pass_control_pool,repository_url,pass,repository_ownership_semantics,8114,41.50,28.94

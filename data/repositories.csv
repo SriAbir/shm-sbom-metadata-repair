@@ -1,0 +1,16 @@
+project_id,ecosystem,repository_url,owner_repo,language,manifest_file,notes
+NPM-01,npm,https://github.com/facebook/react,facebook/react,JavaScript/TypeScript,package.json,Large UI framework
+NPM-02,npm,https://github.com/axios/axios,axios/axios,JavaScript,package.json,Popular HTTP client
+NPM-03,npm,https://github.com/angular/angular,angular/angular,TypeScript,package.json,Large TypeScript framework
+NPM-04,npm,https://github.com/expressjs/express,expressjs/express,JavaScript,package.json,Node.js web framework
+NPM-05,npm,https://github.com/vuejs/core,vuejs/core,TypeScript,package.json,JavaScript framework
+PY-01,pypi,https://github.com/fastapi/fastapi,fastapi/fastapi,Python,pyproject.toml,Python web framework
+PY-02,pypi,https://github.com/django/django,django/django,Python,pyproject.toml,Python web framework
+PY-03,pypi,https://github.com/scikit-learn/scikit-learn,scikit-learn/scikit-learn,Python,pyproject.toml,Machine learning library
+PY-04,pypi,https://github.com/psf/requests,psf/requests,Python,pyproject.toml,Python HTTP library
+PY-05,pypi,https://github.com/pandas-dev/pandas,pandas-dev/pandas,Python,pyproject.toml,Data analysis library
+MAV-01,maven,https://github.com/spring-projects/spring-boot,spring-projects/spring-boot,Java,pom.xml,Java framework
+MAV-02,maven,https://github.com/apache/dubbo,apache/dubbo,Java,pom.xml,Apache RPC framework
+MAV-03,maven,https://github.com/apache/flink,apache/flink,Java,pom.xml,Apache data processing framework
+MAV-04,maven,https://github.com/junit-team/junit5,junit-team/junit5,Java,pom.xml,Java testing framework
+MAV-05,maven,https://github.com/apache/maven,apache/maven,Java,pom.xml,Maven build system

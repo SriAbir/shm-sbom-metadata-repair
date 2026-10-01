@@ -1,0 +1,10 @@
+scope,fields,field_count,total_components,total_component_field_cells,present_before,missing_before,completeness_before_pct,accepted_repairs_applied,present_after,missing_after,completeness_after_pct,absolute_gain_percentage_points,missing_value_recovery_pct,components_improved,components_unchanged,components_decreased
+context_8_metadata_fields,name;version;purl;license;supplier;repository_url;hash_values;distribution_url,8,52767,422136,177335,244801,42.01,77516,254851,167285,60.37,18.36,31.66,28307,24460,0
+,,,52767,,52767,0,100.00,0,52767,0,100.00,0.00,0.00,,,
+,,,52767,,48644,4123,92.19,0,48644,4123,92.19,0.00,0.00,,,
+,,,52767,,49456,3311,93.73,0,49456,3311,93.73,0.00,0.00,,,
+,,,52767,,5125,47642,9.71,24413,29538,23229,55.98,46.27,51.24,,,
+,,,52767,,0,52767,0.00,0,0,52767,0.00,0.00,0.00,,,
+,,,52767,,0,52767,0.00,27811,27811,24956,52.71,52.71,52.71,,,
+,,,52767,,17103,35664,32.41,1,17104,35663,32.41,0.00,0.00,,,
+,,,52767,,4240,48527,8.04,25291,29531,23236,55.96,47.93,52.12,,,

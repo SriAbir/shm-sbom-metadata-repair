@@ -1,0 +1,15 @@
+field_name,semantic_rule_decision,verified_gt_overlap,candidate_matches_gt,candidate_differs_from_gt,candidate_match_rate_pct,percentage_of_field_verified_gt_cases
+license,accept,91,90,1,98.90,30.23
+license,accept_with_caution,51,7,44,13.73,16.94
+license,manual_review,1,0,1,0.00,0.33
+license,no_proposal,158,,,,52.49
+supplier,manual_review,64,5,59,7.81,57.66
+supplier,reject,1,0,1,0.00,0.90
+supplier,no_proposal,46,,,,41.44
+repository_url,accept,178,171,7,96.07,50.14
+repository_url,reject,1,0,1,0.00,0.28
+repository_url,no_proposal,176,,,,49.58
+hash_values,accept,1,1,0,100.00,0.67
+hash_values,no_proposal,149,,,,99.33
+distribution_url,accept,49,49,0,100.00,45.37
+distribution_url,no_proposal,59,,,,54.63

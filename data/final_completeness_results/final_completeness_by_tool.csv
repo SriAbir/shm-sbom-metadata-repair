@@ -1,0 +1,11 @@
+tool,field,total_components,present_before,missing_before,completeness_before_pct,accepted_repairs_applied,present_after,missing_after,completeness_after_pct,absolute_gain_percentage_points,missing_value_recovery_pct
+cdxgen,license,15194,3512,11682,23.11,5264,8776,6418,57.76,34.65,45.06
+cdxgen,supplier,15194,0,15194,0.00,0,0,15194,0.00,0.00,0.00
+cdxgen,repository_url,15194,0,15194,0.00,7781,7781,7413,51.21,51.21,51.21
+cdxgen,hash_values,15194,13859,1335,91.21,1,13860,1334,91.22,0.01,0.07
+cdxgen,distribution_url,15194,4191,11003,27.58,4894,9085,6109,59.79,32.21,44.48
+syft,license,37573,1613,35960,4.29,19149,20762,16811,55.26,50.96,53.25
+syft,supplier,37573,0,37573,0.00,0,0,37573,0.00,0.00,0.00
+syft,repository_url,37573,0,37573,0.00,20030,20030,17543,53.31,53.31,53.31
+syft,hash_values,37573,3244,34329,8.63,0,3244,34329,8.63,0.00,0.00
+syft,distribution_url,37573,49,37524,0.13,20397,20446,17127,54.42,54.29,54.36

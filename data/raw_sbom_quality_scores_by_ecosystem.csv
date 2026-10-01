@@ -1,0 +1,4 @@
+ecosystem,component_count,average_quality_score,average_quality_percent,scored_at
+maven,10008,0.3974,39.74,2026-07-01T13:33:24.359598+00:00
+npm,41582,0.4247,42.47,2026-07-01T13:33:24.359598+00:00
+pypi,1177,0.4517,45.17,2026-07-01T13:33:24.359598+00:00

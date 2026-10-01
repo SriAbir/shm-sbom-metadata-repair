@@ -1,0 +1,14 @@
+tool,version_output,error,collected_at,status,notes
+syft,"Application:   syft
+Version:       1.46.0
+BuildDate:     2026-06-26T09:36:01Z
+GitCommit:     b15c5dbfe2bb21c9d73002c1056a829c8c411c75
+GitDescription: v1.46.0
+Platform:      linux/amd64
+GoVersion:     go1.26.3
+Compiler:      gc
+SchemaVersion: 16.1.5",,2026-07-01T12:24:04.482432+00:00,success,Installed locally in ./bin
+cdxgen,"[1mCycloneDX Generator 12.7.0[0m
+Runtime: Node.js, Version: 24.18.0",,2026-07-01T12:24:04.482432+00:00,success,Installed globally via npm
+node,v24.18.0,,2026-07-01T12:24:04.482432+00:00,success,Required for cdxgen
+npm,11.16.0,,2026-07-01T12:24:04.482432+00:00,success,Required for cdxgen

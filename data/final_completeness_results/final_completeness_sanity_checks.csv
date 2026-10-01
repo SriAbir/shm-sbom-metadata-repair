@@ -1,0 +1,10 @@
+check,value,expected,status
+raw_component_rows,52767,>0,PASS
+duplicate_raw_occurrence_keys,0,0,PASS
+conflicting_duplicate_accept_rows,0,0,PASS
+unmatched_accepted_repairs,0,0,PASS
+accepted_repairs_project_mismatch,0,0,PASS
+accepted_repairs_targeting_existing_value,0,0,PASS
+accepted_repairs_with_blank_new_value,0,0,PASS
+existing_nonempty_target_fields_overwritten,0,0,PASS
+after_state_repairs_equal_applied_accepts,77516,77516,PASS

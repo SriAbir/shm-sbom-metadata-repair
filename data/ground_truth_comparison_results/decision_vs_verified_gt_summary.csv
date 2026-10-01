@@ -1,0 +1,6 @@
+semantic_rule_decision,verified_gt_overlap,candidate_matches_gt,candidate_differs_from_gt,candidate_match_rate_pct,primary_evaluable_overlap,percentage_of_verified_gt_cases
+accept,319,311,8,97.49,319,31.12
+accept_with_caution,51,7,44,13.73,51,4.98
+manual_review,65,5,60,7.69,65,6.34
+reject,2,0,2,0.00,2,0.20
+no_proposal,588,,,,,57.37

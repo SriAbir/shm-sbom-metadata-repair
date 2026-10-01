@@ -1,0 +1,4 @@
+static_validation_result,count,percentage
+pass,77780,72.93
+out_of_scope,28760,26.97
+fail,106,0.10
